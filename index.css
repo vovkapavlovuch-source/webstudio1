@@ -1,0 +1,33 @@
+/* header */
+
+.logo1
+{
+    color: blue;
+}
+/* Ефективні рішення для вашого бізнесу */
+.item
+{
+    background-color: rgb(56, 56, 56); 
+}
+.text
+{
+    color: white;
+}
+.button
+{
+    color: blue;
+}
+
+/* footer */
+.footer
+{
+    background-color: rgb(56, 56, 56); 
+}
+.logo
+{
+    color: white;
+}
+.address
+{
+    color: white;
+}
