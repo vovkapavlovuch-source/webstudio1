@@ -2,6 +2,13 @@ body {
   font-family: "Roboto";
 }
 
+.header
+{
+  padding-top: 24px;
+  padding-bottom: 25px;
+}
+
+
 .header-web {
   color: #2196f3;
 }
@@ -32,6 +39,8 @@ body {
 
 .hero {
   background-color: #2f303a;
+  padding-top: 200px;
+  padding-bottom: 200px;  
 }
 
 .hero-title {
@@ -54,6 +63,12 @@ body {
   color: #fff;
 }
 
+.company
+{
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+
 .company-title {
   font-weight: 700;
   font-size: 14px;
@@ -70,6 +85,12 @@ body {
   color: #757575;
 }
 
+.about
+{
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+
 .about-title {
   font-weight: 700;
   font-size: 36px;
@@ -81,6 +102,12 @@ body {
 .about-photo {
   width: 370px;
   height: 294px;
+}
+
+.team
+{
+  padding-top: 94px;
+  padding-bottom: 94px;
 }
 
 .team-title {
@@ -112,6 +139,13 @@ body {
   color: #757575;
 }
 
+.footer
+{
+  background: #2f303a;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
 .footer-logo {
   font-family: "Raleway";
   font-weight: 700;
@@ -126,10 +160,6 @@ body {
 
 .footer-studio {
   color: #fff;
-}
-
-.footer {
-  background: #2f303a;
 }
 
 .footer-text {
@@ -147,3 +177,13 @@ body {
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
 }
+
+.container
+{
+  width: 1199;
+  margin-left: auto;
+  margin-bottom: auto;
+  padding-left: 15px;
+  padding-bottom: 15px;
+}
+

@@ -2,6 +2,12 @@ body {
   font-family: "Roboto";
 }
 
+.header
+{
+  padding-top: 24px;
+  padding-bottom: 25px;
+}
+
 .header-web {
   color: #2196f3;
 }
@@ -29,6 +35,12 @@ body {
   color: #2196f3;
 }
 
+.catalog
+{
+  padding-top: 94px;
+  padding-bottom: 50px;
+}
+
 .catalog-page {
   font-weight: 500;
   font-size: 16px;
@@ -41,6 +53,12 @@ body {
 .catalog-page:hover
 {
     color: #2196f3;
+}
+
+.portfolio
+{
+  padding-top: 34px;
+  padding-bottom: 94px;
 }
 
 .portfolio-photo {
@@ -82,6 +100,8 @@ body {
 
 .footer {
   background: #2f303a;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 .footer-text {
@@ -98,4 +118,13 @@ body {
   line-height: 171%;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
+}
+
+.container
+{
+  width: 1200;
+  margin-top: auto;
+  margin-bottom: auto;
+  padding-left: 15px;
+  padding-right: 15px;
 }
